@@ -7,4 +7,6 @@ How to use:
 3. Verify your version of Microsoft Edge matches the Version of the drivers (respositoy correct as of 1/19/2023)
     If the respository driver is out of date, download the newest driver at https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ and update Microsoft Edge
 4. Ensure you have all necessary packages installed via PIP
-5. Run code and watch the screenshots populate on in the desktop folder!
+5. Run WebAutomation.py and watch the screenshots populate on in the desktop folder!
+
+This was created to satisfy the requirement of monthly review of vendor status and creates a 'record'. Hopefully this helps save people some time!
