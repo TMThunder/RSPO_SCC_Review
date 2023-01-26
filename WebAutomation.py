@@ -7,7 +7,7 @@ from Vendors import vendors
 
 username = os.getlogin()
 
-path = f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-Public\msedgedriver.exe"
+path = f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-Public-Main\msedgedriver.exe"
 PATH = path
 
 
