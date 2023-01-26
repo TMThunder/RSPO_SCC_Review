@@ -7,7 +7,7 @@ from Vendors import vendors
 
 username = os.getlogin()
 
-path = f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-Public-Main\msedgedriver.exe"
+path = f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-main\msedgedriver.exe"
 PATH = path
 
 
@@ -16,7 +16,7 @@ driver = webdriver.Edge(PATH)
 now = datetime.datetime.now()
 
 
-original_path = (f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-Public")
+original_path = (f"C:\\Users\{username}\Desktop\RSPO-SCC-Review-main")
 folder_date = str(now.strftime("%Y-%m-%d"))
 new_path = original_path+'\\'+folder_date
 
